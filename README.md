@@ -1,0 +1,3 @@
+# Puppiesaresoocute
+this will be my personal github account that will be used for testing 
+This is just a simple spring web application that i am using to play around with builds on openshift...
